@@ -305,10 +305,6 @@ a.pure-button-primary {
     transform: translateY(-44px);
 }
 
-#tuckedMenu {
-  float: right;
-}
-
 @media (max-width: 62em) {
 
     .custom-menu {
